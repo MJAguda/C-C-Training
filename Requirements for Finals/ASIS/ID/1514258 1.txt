@@ -1,0 +1,15 @@
+		Personal Information
+	-----------------------------------------------------------------------
+	Age			:	19
+	Date of Birth		:	Aug.31,1997
+	Place of Birth		:	Bacolod City, Negros Occidental
+	Civil Status		:	Single
+	Gender			:	Female
+	Citizenship		:	Filipino
+	Language		:	Tagalog
+	Religion		:	Iglesia ni Cristo
+	Father			:	Joel Bantolinao (deceased)
+	Occupation		:	N/A
+	Mother			:	Susan Bantolinao
+	Occupation		:	Housekeeping
+	-----------------------------------------------------------------------

@@ -1,0 +1,15 @@
+		Personal Information
+	-----------------------------------------------------------------------
+	Age			:	19
+	Date of Birth		:	Feb. 17, 1998
+	Place of Birth		:	San Fabian, Pangasinan
+	Civil Status		:	Single
+	Gender			:	Female
+	Citizenship		:	Filipino
+	Language		:	Tagalog and English
+	Religion		:	CDCC
+	Father			:	Leo Damaso
+	Occupation		:	Laborer
+	Mother			:	Olive Damaso (deceased)
+	Occupation		:	N/A
+	-----------------------------------------------------------------------

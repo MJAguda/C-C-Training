@@ -1,0 +1,6 @@
+		School Data
+	-----------------------------------------------------------------------
+	Name		:	Lyra C. Columna
+	Department	:	Department of Engineering
+	Program		:	Bachelor of Science in Computer Engineering
+	-----------------------------------------------------------------------

@@ -1,0 +1,4 @@
+banana 500 10
+apple 300 15
+orange 400 20
+mango 500 30

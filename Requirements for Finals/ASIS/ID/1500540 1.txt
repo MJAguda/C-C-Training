@@ -1,0 +1,15 @@
+		Personal Information
+	-----------------------------------------------------------------------
+	Age			:	19
+	Date of Birth		:	March 19, 1999
+	Place of Birth		:	Olongapo City, Zambales
+	Civil Status		:	Single
+	Gender			:	Female
+	Citizenship		:	Filipino
+	Language		:	Tagalog and English
+	Religion		:	Roman Catholic
+	Father			:	Fernando T. Ruelos
+	Occupation		:	Furniture Making
+	Mother			:	Rizalina D. Ruelos
+	Occupation		:	Housekeeping
+	-----------------------------------------------------------------------

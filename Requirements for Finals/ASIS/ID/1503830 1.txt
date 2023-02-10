@@ -1,0 +1,15 @@
+		Personal Information
+	-----------------------------------------------------------------------
+	Age			:	19
+	Date of Birth		:	May 27, 1998
+	Place of Birth		:	Iba, Zambales
+	Civil Status		:	Single
+	Gender			:	Male
+	Citizenship		:	Filipino
+	Language		:	Tagalog and English
+	Religion		:	Roman Catholic
+	Father			:	Jacobo Panaga
+	Occupation		:	Security Guard
+	Mother			:	Juanita Bernal (Deceased)
+	Occupation		:	Housekeeping
+	-----------------------------------------------------------------------

@@ -1,0 +1,6 @@
+		School Data
+	-----------------------------------------------------------------------
+	Name		:	Joan Bantolinao
+	Department	:	Department of Engineering
+	Program		:	Bachelor of Science in Computer Engineering
+	-----------------------------------------------------------------------

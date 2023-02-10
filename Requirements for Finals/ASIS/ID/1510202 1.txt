@@ -1,0 +1,15 @@
+		Personal Information
+	-----------------------------------------------------------------------
+	Age			:	19
+	Date of Birth		:	May 30, 1998
+	Place of Birth		:	San Juan, Lallo, Cagayan
+	Civil Status		:	Single
+	Gender			:	Female
+	Citizenship		:	Filipino
+	Language		:	Tagalog and English
+	Religion		:	Roman Catholic
+	Father			:	Conrado C. Columna
+	Occupation		:	Farming
+	Mother			:	Yolanda C. Columna
+	Occupation		:	Housekeeping
+	-----------------------------------------------------------------------

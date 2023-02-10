@@ -1,0 +1,15 @@
+		Personal Information
+	-----------------------------------------------------------------------
+	Age			:	18
+	Date of Birth		:	August 14, 1998
+	Place of Birth		:	Tuao, Cagayan
+	Civil Status		:	Single
+	Gender			:	Male
+	Citizenship		:	Filipino
+	Language		:	Tagalog, Ilocano, Itawes, English
+	Religion		:	Roman Catholic
+	Father			:	Herminigildo Agustin
+	Occupation		:	Farming
+	Mother			:	Lilia Agustin
+	Occupation		:	Housekeeping
+	-----------------------------------------------------------------------

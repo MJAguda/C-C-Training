@@ -1,0 +1,6 @@
+		School Data
+	-----------------------------------------------------------------------
+	Name		:	Rose Marie S. Sablay
+	Department	:	Department of Engineering
+	Program		:	Bachelor of Science in Computer Engineering
+	-----------------------------------------------------------------------

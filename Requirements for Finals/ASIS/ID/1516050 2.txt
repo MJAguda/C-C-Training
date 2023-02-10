@@ -1,0 +1,6 @@
+		School Data
+	-----------------------------------------------------------------------
+	Name		:	Karl Angelo P. Unida
+	Department	:	Department of Engineering
+	Program		:	Bachelor of Science in Computer Engineering
+	-----------------------------------------------------------------------

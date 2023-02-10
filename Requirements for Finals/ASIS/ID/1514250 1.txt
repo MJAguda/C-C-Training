@@ -1,0 +1,15 @@
+		Personal Information
+	-----------------------------------------------------------------------
+	Age			:	19
+	Date of Birth		:	August 30, 1998
+	Place of Birth		:	Cagayan
+	Civil Status		:	Single
+	Gender			:	Female
+	Citizenship		:	Filipino
+	Language		:	Tagalog and English
+	Religion		:	Roman Catholic
+	Father			:	Larry S. Sablay
+	Occupation		:	Farming
+	Mother			:	Elsie S. Sablay
+	Occupation		:	OFW
+	-----------------------------------------------------------------------

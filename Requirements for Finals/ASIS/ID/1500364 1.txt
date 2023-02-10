@@ -1,0 +1,15 @@
+		Personal Information
+	-----------------------------------------------------------------------
+	Age			:	18
+	Date of Birth		:	October 28, 1998
+	Place of Birth		:	Tuguegarao City
+	Civil Status		:	Single
+	Gender			:	Male
+	Citizenship		:	Filipino
+	Language		:	Tagalog and English
+	Religion		:	Roman Catholic
+	Father			:	Marlo Dammay
+	Occupation		:	Tricycle Driver
+	Mother			:	Mayeth Dammay
+	Occupation		:	Housekeeping
+	-----------------------------------------------------------------------

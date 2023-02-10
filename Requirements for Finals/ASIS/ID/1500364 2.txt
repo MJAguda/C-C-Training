@@ -1,0 +1,6 @@
+		School Data
+	-----------------------------------------------------------------------
+	Name		:	John Marlo F. Dammay
+	Department	:	Department of Engineering
+	Program		:	Bachelor of Science in Computer Engineering
+	-----------------------------------------------------------------------

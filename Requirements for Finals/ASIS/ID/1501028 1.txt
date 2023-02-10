@@ -1,0 +1,15 @@
+		Personal Information
+	-----------------------------------------------------------------------
+	Age			:	18
+	Date of Birth		:	Sept. 27,1998
+	Place of Birth		:	Flora, Apayao
+	Civil Status		:	Single
+	Gender			:	Male
+	Citizenship		:	Filipino
+	Language		:	Tagalog and English
+	Religion		:	Iglesia ni Cristo
+	Father			:	Lucio Mamba
+	Occupation		:	Retired Army
+	Mother			:	Grace Mamba
+	Occupation		:	Housekeeping
+	-----------------------------------------------------------------------

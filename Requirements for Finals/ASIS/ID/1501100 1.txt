@@ -1,0 +1,14 @@
+		Personal Information
+	-----------------------------------------------------------------------
+	Age			:	18 years old
+	Date of Birth		:	March 26,1999
+	Civil Status		:	Single
+	Gender			:	Female
+	Citizenship		:	Filipino
+	Language		:	Taagalog
+	Religion		:	Pentecost
+	Father			:	Dennis Gamata
+	Occupation		:	Farming
+	Mother			:	Sonia Gamata
+	Occupation		:	Housewife
+	-----------------------------------------------------------------------

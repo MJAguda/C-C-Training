@@ -1,0 +1,15 @@
+		Personal Information
+	-----------------------------------------------------------------------
+	Age			:	18
+	Date of Birth		:	Aug.18,1997
+	Place of Birth		:	Minanga, Gonzaga, Cagayan
+	Civil Status		:	Single
+	Gender			:	Female
+	Citizenship		:	Filipino
+	Language		:	Tagalog
+	Religion		:	Roman Catholic
+	Father			:	Cenon Q. Javier (deceased)
+	Occupation		:	N/A
+	Mother			:	Elsie A. Javier
+	Occupation		:	OFW
+	-----------------------------------------------------------------------

@@ -1,0 +1,14 @@
+		Personal Information
+	-----------------------------------------------------------------------
+	Age			:	 years old
+	Date of Birth		:	
+	Civil Status		:	
+	Gender			:	
+	Citizenship		:	
+	Language		:	
+	Religion		:	
+	Father			:	
+	Occupation		:	
+	Mother			:	
+	Occupation		:	
+	-----------------------------------------------------------------------

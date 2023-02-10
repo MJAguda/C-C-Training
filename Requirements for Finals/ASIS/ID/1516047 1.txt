@@ -1,0 +1,15 @@
+		Personal Information
+	-----------------------------------------------------------------------
+	Age			:	17
+	Date of Birth		:	June 4, 1999 
+	Place of Birth		:	Poblacion, Kalinga, Apayao
+	Civil Status		:	Single
+	Gender			:	Male
+	Citizenship		:	Filipino
+	Language		:	Tagalog and English
+	Religion		:	Protestant
+	Father			:	Calvin A. Apangchan
+	Occupation		:	Farmer
+	Mother			:	Marita E. Apangchan
+	Occupation		:	Housewife
+	-----------------------------------------------------------------------

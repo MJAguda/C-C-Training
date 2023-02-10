@@ -1,0 +1,14 @@
+		Personal Information
+	-----------------------------------------------------------------------
+	Age			:	20 years old
+	Date of Birth		:	1231255
+	Civil Status		:	Signle
+	Gender			:	Male
+	Citizenship		:	FIlipino
+	Language		:	FIlipino
+	Religion		:	JW
+	Father			:	lkwejrlkjwer
+	Occupation		:	welkkrjwklejr
+	Mother			:	lwkejrlkwejr
+	Occupation		:	lwkerjlkwj
+	-----------------------------------------------------------------------

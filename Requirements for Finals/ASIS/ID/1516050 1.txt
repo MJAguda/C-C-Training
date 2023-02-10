@@ -1,0 +1,15 @@
+		Personal Information
+	-----------------------------------------------------------------------
+	Age			:	18
+	Date of Birth		:	October 10, 1998
+	Place of Birth		:	Tupang, Alcala,Cagayan
+	Civil Status		:	Single
+	Gender			:	Male
+	Citizenship		:	Filipino
+	Language		:	Tagalog, Ilocano, Itawes, English
+	Religion		:	Roman Catholic
+	Father			:	Romel Unida
+	Occupation		:	Farming
+	Mother			:	Eufemia Unida
+	Occupation		:	Housekeeping
+	-----------------------------------------------------------------------

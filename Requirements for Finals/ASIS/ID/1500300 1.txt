@@ -1,0 +1,15 @@
+		Personal Information
+	-----------------------------------------------------------------------
+	Age			:	19
+	Date of Birth		:	Feb. 20 1998
+	Place of Birth		:	Capatan, Tuguegarao City
+	Civil Status		:	Single
+	Gender			:	Female
+	Citizenship		:	Filipino
+	Language		:	Tagalog and English
+	Religion		:	Roman Catholic
+	Father			:	Pio Binayug
+	Occupation		:	Tricycle Driver
+	Mother			:	Marina Binayug
+	Occupation		:	Housekeeping
+	-----------------------------------------------------------------------
